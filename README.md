@@ -1,7 +1,7 @@
 # About Me
 
 * Full Stack web developer.
-* Lifelong tinkerer since 13 years old.
+* Lifelong tinkerer since 13 years of age.
 * Sometimes I upload things.
 
 ### Some tooling I use regularly, and roughly when I began solving problems with them

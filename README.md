@@ -17,4 +17,5 @@
 
 ### Notice for recruiters and hiring managers
 
+* I was a hobbyist for quite a while before ever attempting to join the industry
 * I'm primarily targeting Mid level <-> Senior level full-stack positions

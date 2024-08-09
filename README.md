@@ -7,7 +7,7 @@
 ### Some tooling I use regularly, and roughly when I began solving problems with them
 
 * 🐍 Python - 2015
-* ⚙️ Bash - 2017
+* ⚙️ Bash - 2018
 * 💫 JavaScript - 2021
 
 ### Honorable mentions

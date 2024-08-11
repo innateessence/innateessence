@@ -18,5 +18,4 @@
 ### Note for recruiters and hiring managers
 
 * I was a hobbyist for quite a while before ever attempting to join the industry.
-* I'm primarily targeting Mid-level or Senior-level full-stack positions.
 * I have a strong preference for Remote/Hybrid roles.

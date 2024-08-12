@@ -1,7 +1,8 @@
 # About Me
 
 * Full Stack web developer.
-* Lifelong tinkerer since 13 years of age.
+* Began tinkering at 12 years of age.
+* I've been learning and applying technical concepts ever since.
 * Sometimes I upload things.
 
 ### Some tooling I use regularly, and roughly when I began solving problems with them
@@ -17,5 +18,4 @@
 
 ### Note for recruiters and hiring managers
 
-* I was a hobbyist for quite a while before ever attempting to join the industry.
 * I have a strong preference for Remote/Hybrid roles.

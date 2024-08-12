@@ -4,7 +4,6 @@
 * Began tinkering at 12 years of age.
 * Has been learning and applying technical concepts ever since.
 * Loves using Python and Bash.
-* Debating which language I should
 * Sometimes I upload things.
 
 ### Some tooling I use regularly, and roughly when I began solving problems with them

@@ -2,7 +2,7 @@
 
 * Full Stack web developer.
 * Began tinkering at 12 years of age.
-* I've been learning and applying technical concepts ever since.
+* Has been learning and applying technical concepts ever since.
 * Sometimes I upload things.
 
 ### Some tooling I use regularly, and roughly when I began solving problems with them

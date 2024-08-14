@@ -20,6 +20,7 @@
 
 ### Notes for recruiters and hiring managers
 
-* Although I began programming on a frequent / semi-frequent basis over a decade ago, I am looking for Mid-level to Senior level roles.
+* I began doing personal programming on a frequent / semi-frequent basis roughly a decade ago
+* I am looking for Mid-level to Senior level roles. These roles fit my skill-set best.
 * I have a strong preference for Remote/Hybrid roles.
 * You can find my LinkedIn on the left-hand side-bar

@@ -15,7 +15,7 @@
 
 ### Honorable mentions
 
-* Between roughly 2017-2021 I was diving deep into the Linux world and learned a lot.
+* Between roughly 2017-2021 I was diving deep into the Linux world. Spending a lot of time configuring system(s) from scratch.
 * Check out my [public dotfiles repo](https://github.com/innateessence/dotfiles) to infer some details.
 
 ### Note for recruiters and hiring managers

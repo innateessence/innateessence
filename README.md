@@ -13,9 +13,10 @@
 * 💫 JavaScript - 2019
 * ✨ Typescript - 2023
 
-### Honorable mentions
+### Honorable mention(s)
 
-* Between roughly 2017-2021 I was diving deep into the Linux world. Spending a lot of time configuring system(s) from scratch.
+* Between roughly 2017-2021 I was diving deep into the Linux world.
+* I spent a lot of time configuring system(s) from scratch to suit a wide range of use cases.
 * Check out my [public dotfiles repo](https://github.com/innateessence/dotfiles) to infer some details.
 
 ### Notes for recruiters and hiring managers

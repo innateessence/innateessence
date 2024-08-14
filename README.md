@@ -18,6 +18,8 @@
 * Between roughly 2017-2021 I was diving deep into the Linux world. Spending a lot of time configuring system(s) from scratch.
 * Check out my [public dotfiles repo](https://github.com/innateessence/dotfiles) to infer some details.
 
-### Note for recruiters and hiring managers
+### Notes for recruiters and hiring managers
 
+* Although I began programming on a frequent / semi-frequent basis over a decade ago, I am looking for Mid-level to Senior level roles.
 * I have a strong preference for Remote/Hybrid roles.
+* You can find my LinkedIn on the left-hand side-bar

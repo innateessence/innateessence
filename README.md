@@ -1,9 +1,9 @@
 # About Me
 
 * Full Stack web developer.
-* Has been learning and applying technical concepts from a young age.
 * Loves using Python and Bash.
 * Likes doing UI with modern web tooling.
+* Would like to pick up `go`
 * Sometimes uploads things.
 
 ### Some tooling I use regularly, and roughly when I began solving problems with them

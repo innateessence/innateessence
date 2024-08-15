@@ -22,6 +22,6 @@
 
 ### Notes for recruiters and hiring managers
 
-* I am looking for Mid-level to Senior level roles. These roles fit my skill set best.
+* I am looking for Mid-level or Senior level roles. These roles fit my skill set best.
 * I have a strong preference for Remote/Hybrid roles.
 * You can find my LinkedIn on the left-hand side-bar

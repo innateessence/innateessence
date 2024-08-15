@@ -18,8 +18,3 @@
 * Between roughly 2017-2021 I was diving deep into the Linux world.
 * I spent a lot of time configuring system(s) from scratch to suit a wide range of use cases.
 * Check out my [public dotfiles repo](https://github.com/innateessence/dotfiles) to infer some details.
-
-### Notes for recruiters and hiring managers
-
-* I have a strong preference for Remote/Hybrid roles.
-* You can find my LinkedIn on the left-hand side-bar.
